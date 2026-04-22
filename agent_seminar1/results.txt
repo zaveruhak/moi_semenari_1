@@ -1,0 +1,517 @@
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+Test accuracy after 30 facts: 0.00%
+Correct: 0, Total: 0
+Test accuracy after 50 facts: 0.00%
+Correct: 0, Total: 0
+Test accuracy after 100 facts: 0.00%
+Correct: 0, Total: 0
+Test accuracy after 200 facts: 0.00%
+Correct: 0, Total: 0
+Test accuracy after 500 facts: 0.00%
+Correct: 0, Total: 0
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 0.00%
+After 50 facts: 0.00%
+After 100 facts: 0.00%
+After 200 facts: 0.00%
+After 500 facts: 0.00%
+Accuracy stable/improving over 30+ facts!
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+Running experiment with 30 facts...
+Test accuracy after 30 facts: 85.00%
+Correct: 17, Total: 20
+Running experiment with 50 facts...
+Test accuracy after 50 facts: 85.00%
+Correct: 17, Total: 20
+Running experiment with 100 facts...
+Test accuracy after 100 facts: 95.00%
+Correct: 19, Total: 20
+Running experiment with 200 facts...
+Test accuracy after 200 facts: 45.00%
+Correct: 9, Total: 20
+Running experiment with 500 facts...
+Test accuracy after 500 facts: 65.00%
+Correct: 13, Total: 20
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 85.00%
+After 50 facts: 85.00%
+After 100 facts: 95.00%
+After 200 facts: 45.00%
+After 500 facts: 65.00%
+Accuracy degrading!
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+Running experiment with 30 facts...
+Test accuracy after 30 facts: 95.00%
+Correct: 19, Total: 20
+Evictions made: 13
+Running experiment with 50 facts...
+Test accuracy after 50 facts: 90.00%
+Correct: 18, Total: 20
+Evictions made: 28
+Running experiment with 100 facts...
+Test accuracy after 100 facts: 95.00%
+Correct: 19, Total: 20
+Evictions made: 66
+Running experiment with 200 facts...
+Test accuracy after 200 facts: 45.00%
+Correct: 9, Total: 20
+Evictions made: 141
+Running experiment with 500 facts...
+Test accuracy after 500 facts: 65.00%
+Correct: 13, Total: 20
+Evictions made: 366
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 95.00%
+After 50 facts: 90.00%
+After 100 facts: 95.00%
+After 200 facts: 45.00%
+After 500 facts: 65.00%
+Accuracy degrading!
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+
+Testing with 30 facts (5 runs)...
+Average accuracy: 82.00%
+
+Testing with 50 facts (5 runs)...
+Average accuracy: 76.00%
+
+Testing with 100 facts (5 runs)...
+Average accuracy: 70.00%
+
+Testing with 200 facts (5 runs)...
+Average accuracy: 49.00%
+
+Testing with 500 facts (5 runs)...
+Average accuracy: 66.00%
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 82.00%
+After 50 facts: 76.00%
+After 100 facts: 70.00%
+After 200 facts: 49.00%
+After 500 facts: 66.00%
+
+Accuracy may vary - checking individual runs...
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+
+Testing with 30 facts (5 runs)...
+Average accuracy: 82.00%
+
+Testing with 50 facts (5 runs)...
+Average accuracy: 76.00%
+
+Testing with 100 facts (5 runs)...
+Average accuracy: 70.00%
+
+Testing with 200 facts (5 runs)...
+Average accuracy: 49.00%
+
+Testing with 500 facts (5 runs)...
+Average accuracy: 66.00%
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 82.00%
+After 50 facts: 76.00%
+After 100 facts: 70.00%
+After 200 facts: 49.00%
+After 500 facts: 66.00%
+
+Accuracy may vary - checking individual runs...
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+
+Testing with 30 facts (5 runs)...
+Average accuracy: 82.00%
+
+Testing with 50 facts (5 runs)...
+Average accuracy: 76.00%
+
+Testing with 100 facts (5 runs)...
+Average accuracy: 70.00%
+
+Testing with 200 facts (5 runs)...
+Average accuracy: 49.00%
+
+Testing with 500 facts (5 runs)...
+Average accuracy: 66.00%
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 82.00%
+After 50 facts: 76.00%
+After 100 facts: 70.00%
+After 200 facts: 49.00%
+After 500 facts: 66.00%
+
+Accuracy may vary - checking individual runs...
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+
+Testing with 30 facts (5 runs)...
+Average accuracy: 82.00%
+
+Testing with 50 facts (5 runs)...
+Average accuracy: 76.00%
+
+Testing with 100 facts (5 runs)...
+Average accuracy: 70.00%
+
+Testing with 200 facts (5 runs)...
+Average accuracy: 49.00%
+
+Testing with 500 facts (5 runs)...
+Average accuracy: 66.00%
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 82.00%
+After 50 facts: 76.00%
+After 100 facts: 70.00%
+After 200 facts: 49.00%
+After 500 facts: 66.00%
+
+Accuracy may vary - checking individual runs...
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+
+Testing with 30 facts (5 runs)...
+Average accuracy: 82.00%
+
+Testing with 50 facts (5 runs)...
+Average accuracy: 76.00%
+
+Testing with 100 facts (5 runs)...
+Average accuracy: 70.00%
+
+Testing with 200 facts (5 runs)...
+Average accuracy: 49.00%
+
+Testing with 500 facts (5 runs)...
+Average accuracy: 66.00%
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 82.00%
+After 50 facts: 76.00%
+After 100 facts: 70.00%
+After 200 facts: 49.00%
+After 500 facts: 66.00%
+
+Accuracy may vary - checking individual runs...
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
+==================================================
+Pixel's Memory System - RL Eviction
+==================================================
+
+Testing with 30 facts (5 runs)...
+Average accuracy: 82.00%
+
+Testing with 50 facts (5 runs)...
+Average accuracy: 76.00%
+
+Testing with 100 facts (5 runs)...
+Average accuracy: 70.00%
+
+Testing with 200 facts (5 runs)...
+Average accuracy: 49.00%
+
+Testing with 500 facts (5 runs)...
+Average accuracy: 66.00%
+
+==================================================
+Results Summary:
+==================================================
+After 30 facts: 82.00%
+After 50 facts: 76.00%
+After 100 facts: 70.00%
+After 200 facts: 49.00%
+After 500 facts: 66.00%
+
+Accuracy may vary - checking individual runs...
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
+==================================================
+Pixel Memory - RL Eviction (with topic tracking)
+==================================================
+
+Testing with 30 facts...
+  30: 88.0% ([0.8666666666666667, 0.8666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667])
+
+Testing with 50 facts...
+  50: 74.7% ([0.6666666666666666, 0.8666666666666667, 0.8, 0.7333333333333333, 0.6666666666666666])
+
+Testing with 100 facts...
+  100: 57.3% ([0.4, 0.5333333333333333, 0.6666666666666666, 0.7333333333333333, 0.5333333333333333])
+
+Testing with 200 facts...
+  200: 56.0% ([0.6, 0.8666666666666667, 0.3333333333333333, 0.5333333333333333, 0.4666666666666667])
+
+Testing with 500 facts...
+  500: 74.7% ([0.8, 0.6, 0.8, 0.7333333333333333, 0.8])
+
+==================================================
+Summary:
+==================================================
+After 30 facts: 88.0%
+After 50 facts: 74.7%
+After 100 facts: 57.3%
+After 200 facts: 56.0%
+After 500 facts: 74.7%
+
+Accuracy STABLE or IMPROVING over 30+ facts!
